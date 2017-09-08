@@ -22,10 +22,11 @@ body {
   width: 100%;
 }
 
-#header li {
+#header li, a {
   display: inline;
   font-size: 18px;
   color: #757883;
+  text-decoration: none;
 }
 
 #header ul {
