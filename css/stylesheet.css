@@ -9,6 +9,7 @@ body {
 #about-row img {
   width: 100px;
   float: left;
+  margin-right: 30px;
 }
 
 #projects-row {
@@ -33,4 +34,16 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 20px 0px 20px 0px;
+}
+
+#quote {
+  margin-left: 80px;
+}
+
+blockquote {
+  margin-left: 50px;
+}
+
+.bg-info {
+  background-color: #E8E8BD;
 }
