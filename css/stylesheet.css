@@ -14,3 +14,7 @@ body {
 #projects-row {
   clear: both;
 }
+
+#header img {
+  width: 100%;
+}
