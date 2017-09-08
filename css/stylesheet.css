@@ -36,6 +36,37 @@ body {
   padding: 20px 0px 20px 0px;
 }
 
+#footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0px 20px 0px;
+}
+
+#footer {
+  font-size:12px;
+}
+
+#footer p {
+  color: #757883;
+}
+
+#footer li, a {
+  display: inline;
+  color: #757883;
+  text-decoration: none;
+}
+
+.footer-nav a {
+  text-decoration: none;
+  font-size: 14px;
+}
+
 #quote {
   margin-left: 80px;
 }
