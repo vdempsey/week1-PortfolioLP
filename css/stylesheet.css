@@ -6,6 +6,9 @@ body {
   background-color: #ffffff;
 }
 
+.main-banner {
+  padding-bottom: 20px;
+}
 .my-name {
   font-weight: bold;
 }
