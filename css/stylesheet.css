@@ -47,3 +47,7 @@ blockquote {
 .bg-info {
   background-color: #E8E8BD;
 }
+
+.project-th {
+  width: 100%;
+}
