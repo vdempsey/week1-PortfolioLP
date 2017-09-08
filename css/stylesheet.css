@@ -9,6 +9,24 @@ body {
 .my-name {
   font-weight: bold;
 }
+.panel-heading {
+  border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.panel-info {
+  border-color: #AFAFB0;
+}
+
+.panel-info > .panel-heading {
+  background-color: #404040;
+  border-color: #404040;
+  color: #f2f2f2;
+}
+
+.bg-success {
+  background-color: #D5EBB0;
+}
 
 #about-row img {
   width: 110px;
@@ -31,6 +49,15 @@ body {
 
 p.about-me {
   padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.summary {
+  padding-left: 20px;
+  padding-top: 15px;
+}
+
+p.blurb {
   padding-bottom: 10px;
 }
 
