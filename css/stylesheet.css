@@ -5,3 +5,12 @@ body {
 .container {
   background-color: #ffffff;
 }
+
+#about-row img {
+  width: 100px;
+  float: left;
+}
+
+#projects-row {
+  clear: both;
+}
