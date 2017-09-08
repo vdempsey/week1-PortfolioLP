@@ -15,6 +15,21 @@ body {
   clear: both;
 }
 
+#header {
+  text-align: center;
+}
 #header img {
   width: 100%;
+}
+
+#header li {
+  display: inline;
+  font-size: 18px;
+  color: #757883;
+}
+
+#header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0px 20px 0px;
 }
