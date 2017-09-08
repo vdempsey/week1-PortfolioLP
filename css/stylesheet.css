@@ -12,6 +12,12 @@ body {
 .my-name {
   font-weight: bold;
 }
+
+a.project-links {
+  text-decoration: none;
+  font-size: 14px;
+  color: #404040;
+}
 .panel-heading {
   border-top-left-radius: 0px;
     border-top-right-radius: 0px;
